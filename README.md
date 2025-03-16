@@ -1,5 +1,8 @@
 # Full Stack E-Commerce Platform
 
+Frontend: https://github.com/SewwRathnayaka/FED-FRONTEND.git
+Backend: https://github.com/SewwRathnayaka/FED-BACKEND.git
+
 ## Overview
 A modern e-commerce platform built with MERN stack (MongoDB, Express.js, React, Node.js) featuring user authentication, product management, shopping cart, and order processing.
 
